@@ -10,7 +10,8 @@ Projet Data Quality réalisé dans le cadre de la formation DPM dispensée par D
 
 ## Installation
 
-python version == 3.10.9 \n
+python version == 3.10.9
+
 packages are available in the file requirements.txt
 
 
